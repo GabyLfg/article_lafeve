@@ -1,0 +1,67 @@
+h1{
+background color: #B4B4B4 ;
+font-size: 45px;
+font-family: 'Bebas Neue', sans-serif;
+text-align: center;
+}
+
+body {
+
+	background-color:#C5C2F2;
+font-size: 20px;
+	text-align: center;
+
+	
+	padding: 50px;
+	margin: 40px;
+	border: 2px solid black;
+	box-shadow: 100px 100px 100px #B4B7FA;
+	
+.card {
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	margin: 60px;
+	padding: 10px;
+	background: black;
+	border: 2px solid red;
+	padding: 15px;
+	margin: 10px;
+	box-shadow: 2px 2px 2px red;
+	
+}
+.card img {
+	width: 150px;
+
+}
+.card p {
+padding-left: 20px;
+
+}
+.crédit {
+display: flex;
+	align-items: center;
+	justify-content: center;
+.crédit p{
+
+}
+
+	.cercle {
+
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20px;
+}
+
+
+}
+#loyal{
+	text-decoration: none;
+}
+#loyal:hover{
+	color: #F7728A
+}
